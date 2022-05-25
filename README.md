@@ -4,6 +4,6 @@
 
 ---
 
-[Lorem-link](https://tours-sample-gym0tj6ee-canknbr.vercel.app/)
+[Lorem-link](https://lorem-sample.vercel.app/)
 
 ![alt text](img/lorem.png)
